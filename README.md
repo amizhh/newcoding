@@ -19,7 +19,7 @@ elif select == 2:
     print (subtract(x, y))
 
 elif select == 3:
-    print (multiply(x, y)
+    print (multiply(x, y))
 
 elif select == 4:
     print (divide(x, y))
